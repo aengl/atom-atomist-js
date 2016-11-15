@@ -6,7 +6,9 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-const Welcome = (props) => <h1>Hello, {props.name}</h1>;
+const Hello = (props) => <h1>Hello, {props.name}</h1>;
+
+const World = () => <p>How are you on this fine day?</p>;
 
 class App extends Component {
   constructor(props) {
