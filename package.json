@@ -1,0 +1,20 @@
+{
+  "name": "atom-atomist-js",
+  "main": "./lib/atomist",
+  "version": "0.0.0",
+  "description": "Editor integration for atomist-js",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "atomist:toggle"
+  },
+  "repository": "https://github.com/triforkse/atom-atomist-js",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atomist-js": "^0.1.2",
+    "jscodeshift": "^0.3.30",
+    "lodash": "^4.16.6"
+  }
+}
