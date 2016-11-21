@@ -1,26 +1,2 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Atomist: upgradeComponent",
-        "command": "atomist:upgradeComponent"
-      }
-    ]
-  },
-  "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "atomist",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "atomist:toggle"
-            }
-          ]
-        }
-      ]
-    }
-  ]
 }
