@@ -10,7 +10,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atomist-js": "^0.2.5",
+    "atomist-js": "^0.2.6",
     "lodash": "^4.17.2"
   }
 }
