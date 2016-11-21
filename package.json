@@ -1,7 +1,7 @@
 {
   "name": "atom-atomist-js",
   "main": "./lib/atomist",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Editor integration for atomist-js",
   "keywords": [],
   "repository": "https://github.com/triforkse/atom-atomist-js",
