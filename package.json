@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "atomist-js": "^0.3.0",
-    "lodash": "^4.17.2"
+    "lodash": "^4.17.4"
   }
 }
