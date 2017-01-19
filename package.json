@@ -1,16 +1,14 @@
 {
-  "name": "atom-atomist-js",
-  "main": "./lib/atomist",
-  "version": "0.4.6",
-  "description": "Editor integration for atomist-js",
-  "keywords": [],
-  "repository": "https://github.com/triforkse/atom-atomist-js",
+  "name": "atom-transformabit",
+  "main": "./lib/main",
+  "version": "0.1.0",
+  "repository": "https://github.com/triforkse/atom-transformabit",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atomist-js": "^0.3.0",
+    "js-transformabit": "^0.4.0",
     "lodash": "^4.17.4"
   }
 }

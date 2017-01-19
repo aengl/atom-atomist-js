@@ -1,8 +1,8 @@
 'use babel';
 
-import AtomistAtomView from '../lib/atomist-view';
+import Main from '../lib/main';
 
-describe('AtomistAtomView', () => {
+describe('Main', () => {
   it('has one valid test', () => {
     expect('life').toBe('easy');
   });
