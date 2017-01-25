@@ -2,6 +2,11 @@
 
 A proof-of-concept plugin for Atom that applies code transformations using the transformabit libraries.
 
+## Installation
+
+    apm link
+    atom -d
+
 ## Usage
 
 * Open the command palette
